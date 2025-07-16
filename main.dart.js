@@ -81397,7 +81397,7 @@ return null},
 $S:0}
 A.ane.prototype={
 $2(a,b){var s=null,r=this.a,q=J.b0(r.d,b),p=J.aq(q),o=A.bG(p.i(q,"name"),s,s,s,s,s,s)
-p=A.bG(A.m(p.i(q,"interest"))+" / "+A.m(p.i(q,"goal")),s,s,s,s,s,s)
+p=A.bG("\uad00\uc2ec \ubd84\uc57c : "+A.m(p.i(q,"interest"))+" / \ubaa9\ud45c : "+A.m(p.i(q,"goal")),s,s,s,s,s,s)
 return A.zu(s,p,o,r.a.c?A.a5o(s,s,A.jz(B.n2,B.tp,s),s,s,new A.and(r,q),s,s,s):s)},
 $S:200}
 A.and.prototype={
@@ -81508,7 +81508,7 @@ return null},
 $S:0}
 A.anq.prototype={
 $2(a,b){var s=null,r=this.a,q=J.b0(r.d,b),p=J.aq(q),o=A.bG(p.i(q,"name"),s,s,s,s,s,s)
-p=A.bG(A.m(p.i(q,"major"))+" / "+A.m(p.i(q,"expertise")),s,s,s,s,s,s)
+p=A.bG("\ud559\ub144 : "+A.m(p.i(q,"major"))+" / \ub2f4\ub2f9 \uacfc\ubaa9 : "+A.m(p.i(q,"expertise")),s,s,s,s,s,s)
 return A.zu(s,p,o,r.a.c?A.a5o(s,s,A.jz(B.n2,B.tp,s),s,s,new A.anp(r,q),s,s,s):s)},
 $S:200}
 A.anp.prototype={
