@@ -81439,7 +81439,7 @@ return null},
 $S:0}
 A.anm.prototype={
 $2(a,b){var s=null,r=this.a,q=J.b0(r.d,b),p=J.aq(q),o=A.br(p.i(q,"name"),s,s,s,s,s,s)
-p=A.br("\uad00\uc2ec \ubd84\uc57c : "+A.m(p.i(q,"interest"))+" / \ubaa9\ud45c : "+A.m(p.i(q,"goal")),s,s,s,s,s,s)
+p=A.br("\ud559\ub144 : "+A.m(p.i(q,"goal"))+" / \uba58\ud1a0\ub9c1 \ud76c\ub9dd \uacfc\ubaa9 : "+A.m(p.i(q,"interest")),s,s,s,s,s,s)
 return A.zu(s,p,o,r.a.c?A.a5p(s,s,A.jA(B.n7,B.tu,s),s,s,new A.anl(r,q),s,s,s):s)},
 $S:165}
 A.anl.prototype={
